@@ -7,7 +7,7 @@
     "test": "alias gulp='node_modules/gulp/bin/gulp.js';gulp lint && gulp test-func",
     "beautify": "node_modules/gulp/bin/gulp.js beautify --write"
   },
-  "author": "Lei Pan (https://github.com/superpan",
+  "author": "Lei Pan (https://github.com/superpan)",
   "license": "MIT",
   "keywords": [
     "hapi",
