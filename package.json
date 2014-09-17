@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/creativelive/hapi-cl-mozu.git"
+    "url": "git://github.com/creativelive/hapi-auth-mozu.git"
   },
   "bugs": {
-    "url": "https://github.com/creativelive/hapi-cl-mozu/issues"
+    "url": "https://github.com/creativelive/hapi-auth-mozu/issues"
   },
-  "homepage": "https://github.com/creativelive/hapi-cl-mozu"
+  "homepage": "https://github.com/creativelive/hapi-auth-mozu"
 }
