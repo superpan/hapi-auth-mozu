@@ -1,6 +1,6 @@
 {
   "name": "hapi-auth-mozu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mozu ecommerce authentication plugin for hapi",
   "main": "index.js",
   "scripts": {
